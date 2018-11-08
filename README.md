@@ -8,6 +8,6 @@
 
 3. npm start
 
-4. 浏览器打开localhost:5050
+4. 浏览器打开localhost:3000
 
 
