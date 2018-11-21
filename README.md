@@ -1,6 +1,6 @@
 # Tetris(俄罗斯方块)
 
-### How to use （最终版）
+### How to use （Tetris升级版）
 
 1. 下载代码并进入根目录
 
@@ -10,4 +10,5 @@
 
 4. 浏览器打开localhost:3000
 
-
+### 效果图
+![img]()
